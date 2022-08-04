@@ -20,3 +20,6 @@ This repository will contain the following elements:
 * **Dockerfile** : Dockerfile for containing/running all dependencies
 
 ## Instructions for Use:
+
+
+## Model Components/Details:
