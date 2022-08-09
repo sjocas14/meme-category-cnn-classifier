@@ -1,4 +1,4 @@
-# music-genre-classifier
+# meme-era-classifier
 TLDR: This is an interactive machine learning model that is trained to identify a song's genre using the song's audio file as input. 
 
 ## Project Background:
