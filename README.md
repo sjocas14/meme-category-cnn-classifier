@@ -1,5 +1,5 @@
-# meme-era-classifier
-TLDR: This is an interactive machine learning model that is trained to identify a meme's era using the image itself as input. 
+# meme-category-cnn-classifier
+TLDR: This is an interactive machine learning model that is trained to identify a meme's category using the image itself as input. 
 
 ## Project Background:
 
