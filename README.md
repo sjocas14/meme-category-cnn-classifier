@@ -20,7 +20,10 @@ This project is an opportunity to apply the teachings of the two DeepLearning.AI
 
 * 7. **Political Memes**: This genre is for any memes that discuss or reference political events, politicians, or political institutions. Due to many political memes being about the same few politicians (e.g. Trump, Biden, AOC) and most political campaigns creating memes from the same few formats, I am including this category to see if the model can pick up on the commonalities of political memes. 
 
-* 8. **Experimental**: This genre is sort of the "else" category in an "if-else" statement. Since the definiton of what a meme can be is always evolving and becoming more abstract, it is arguable that any image *can* be a meme, it just might not be a meme that is particularly popular just yet. So, this genre is any random image with absolutely no common traits or attributes other than that these images do not fit into any other category. So, an experimental meme is one that pushes the boundaries of what a meme is, and what it can look like.
+* 8. **Contemporary/Normie**: Memes of this genre are ones that have been extremely popular in the past decade (hence the phrase "normie", meaning normal or regular.) This genre of meme has almost no irony or distortion, and typically sticks rigidly to the meme's visual format. Whenever a meme "goes viral" on the internet, it is almost always this genre of meme due to its lack of absurdism and its straightforward premise, making it easy for a wide audience to understand, and requires almost no prerequisite knowledge of internet cultural references. 
+
+* 9. **Experimental**: This genre is sort of the "else" category in an "if-else" statement. Since the definiton of what a meme can be is always evolving and becoming more abstract, it is arguable that any image *can* be a meme, it just might not be a meme that is particularly popular just yet. So, this genre is any random image with absolutely no common traits or attributes other than that these images do not fit into any other category. So, an experimental meme is one that pushes the boundaries of what a meme is, and what it can look like.
+
 
 ## Repository Elements:
 This repository will contain the following elements:
